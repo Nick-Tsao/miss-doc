@@ -1,0 +1,25 @@
+$ms-doc-black: #333;
+$ms-doc-blue: #0079f3;
+$ms-doc-text-color: #34495e;
+$ms-doc-text-light-blue: rgba(69, 90, 100, .6);
+$ms-doc-grey: #999;
+$ms-doc-dark-grey: #666;
+$ms-doc-light-grey: #ccc;
+$ms-doc-border-color: #f1f4f8;
+$ms-doc-code-color: #455a64;
+$ms-doc-code-background-color: #f1f4f8;
+$ms-doc-padding: 40px;
+$ms-doc-row-max-width: 1440px;
+
+$ms-doc-nav-width: 240px;
+
+/* header */
+$ms-doc-header-top-height: 60px;
+$ms-doc-header-bottom-height: 50px;
+
+/* simulator */
+$ms-doc-simulator-width: 360px;
+$ms-doc-simulator-small-width: 320px;
+$ms-doc-simulator-height: 620px;
+$ms-doc-simulator-small-height: 560px;
+
